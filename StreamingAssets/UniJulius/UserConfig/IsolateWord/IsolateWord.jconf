@@ -1,0 +1,2 @@
+-w IsolateWord.dict
+-C ../global.jconf

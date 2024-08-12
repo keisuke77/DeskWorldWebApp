@@ -1,0 +1,39 @@
+<linker>
+  <assembly fullname="Animancer, Version=7.4.2.25, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Animancer.Editor.AnimancerReadMe" preserve="all" />
+  </assembly>
+  <assembly fullname="DOtweenExtension, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DoTween" preserve="all" />
+    <type fullname="DOTweenScriptable" preserve="all" />
+    <type fullname=".AxisValue" preserve="nothing" serialized="true" />
+    <type fullname=".DoTweenSeri" preserve="nothing" serialized="true" />
+    <type fullname=".DoTweenSeri/DOTweenSequence" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="extensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UIcameralook" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+  </assembly>
+</linker>
